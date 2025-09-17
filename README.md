@@ -16,20 +16,25 @@ I help businesses turn raw data into actionable insights using Excel and Power B
 
 ### 1. Sales Dashboard
 - **Tools**: Microsoft Excel
-- **What I did:** Cleaned and structured raw sales data, handled missing values and duplicates, and built a dashboard to track sales trends, top products, and regional performance.
+- **What I did:** Cleaned raw sales data and removed duplicates, fixed missing values, and standardized product categories.
+  - Built dynamic PivotTables, charts, and interactive slicers to visualize sales trends, top products, and regional performance.
+  - Created KPIs for revenue, growth rate, and product performance to monitor business health.
 
-  
-**Impact:** Enabled management to quickly identify declining product lines and optimize inventory, improving decision-making speed.
+**Impact:** Management gained a real-time view of sales performance, identified underperforming product lines, and optimized inventory planning,
+
   
 🔗 [View Project](https://github.com/Nolainspire/Sales-Analysis)
 
 ### 2. Retail Superstore Sales Data Cleaning & Consolidation
 - **Tools**: Microsoft Excel & Power Query
-- **What I did:** Standardized and combined two separate datasets into one clean, analysis-ready dataset. Tasks included splitting customer info, correcting dates, standardizing shipping modes and categories, and automating repetitive cleaning steps.
+- **What I did:** Combined two separate sales datasets into a single clean, standardized dataset.
+    - Automated repetitive cleaning steps using Power Query (splitting customer info, correcting dates, standardizing shipping modes and product categories).
+    - Validated and cross-checked sales and quantity values to ensure accuracy.
+    - Prepared the dataset for analysis with calculated columns for revenue per customer and product performance metrics.
+
+**Impact:** Reduced manual reporting errors, enabling accurate tracking of total sales, customer behavior, and shipping trends. Management could now make faster, data-driven decisions.
 
 
-**Impact:** Delivered a reliable dataset for analysis, reducing manual errors and enabling accurate reporting of sales, shipping preferences, and customer behavior.
-  
 🔗 [View Project](https://github.com/Nolainspire/Retail-Superstore-Sales-Data-Cleaning)
 
 
