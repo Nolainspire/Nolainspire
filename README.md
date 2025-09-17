@@ -31,7 +31,7 @@ I combine technical skills with a strong analytical mindset to design clear, imp
 🔗 [View Project](https://github.com/Nolainspire/Sales-Analysis)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me</h2>
 
 💼 LinkedIn: [https://www.linkedin.com/in/odu-hawau-503548266/](https://www.linkedin.com/in/odu-hawau-503548266/)
 
