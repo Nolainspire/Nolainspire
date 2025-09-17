@@ -33,8 +33,9 @@ I combine technical skills with a strong analytical mindset to design clear, imp
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin](https://www.linkedin.com/in/odu-hawau-503548266/)
+💼 LinkedIn: [https://www.linkedin.com/in/odu-hawau-503548266/](https://www.linkedin.com/in/odu-hawau-503548266/)
 
 
-[Email](oduhawau357@gmail.com)
+📫 Email: [oduhawau357@gmail.com](oduhawau357@gmail.com)
+
 
