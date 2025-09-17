@@ -19,12 +19,17 @@ I combine technical skills with a strong analytical mindset to design clear, imp
 ### 1. Sales Dashboard
 - **Tools**: Excel
 - **Description**: This project transforms raw sales data into clean, structured, and reliable information. It involves data cleaning to handle missing values, duplicates, and inconsistencies, followed by analysis to uncover key insights such as sales trends, top products, regional performance, and customer behavior.
-- [View Project]([./projects/sales-dashboard](https://github.com/Nolainspire/Sales-Analysis.git))
+
+  
+🔗 [View Project](https://github.com/Nolainspire/Sales-Analysis)
 
 ### 2. Customer Analysis
 - **Tools**: SQL, Excel
 - **Description**: Analyzed customer behavior and retention patterns for a fintech startup.
-- 🔗 [View Project]([(https://github.com/Nolainspire/Sales-Analysis.git)](https://github.com/Nolainspire/Sales-Analysis))  
+
+  
+🔗 [View Project](https://github.com/Nolainspire/Sales-Analysis)
+
 
 <h2> 🤳 Connect with me:</h2>
 
