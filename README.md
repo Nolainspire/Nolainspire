@@ -24,7 +24,7 @@ I combine technical skills with a strong analytical mindset to design clear, imp
 ### 2. Customer Analysis
 - **Tools**: SQL, Excel
 - **Description**: Analyzed customer behavior and retention patterns for a fintech startup.
-- 🔗 [View Project]((https://github.com/Nolainspire/Sales-Analysis.git))  
+- 🔗 [View Project]([(https://github.com/Nolainspire/Sales-Analysis.git)](https://github.com/Nolainspire/Sales-Analysis))  
 
 <h2> 🤳 Connect with me:</h2>
 
