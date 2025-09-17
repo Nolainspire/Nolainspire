@@ -1,33 +1,34 @@
-# Hi, I'm Nola!
-Excel and Power BI Specialist
+# Hi I'm Nola! – Excel & Power BI Specialist | Data Analyst
 
-I am a Data Analyst with expertise in Excel and Power BI dedicated to helping businesses turn raw data into actionable insights. My work focuses on solving real business problems through data cleaning, visualization, and interactive dashboards that support decision-making and growth.
-
-I combine technical skills with a strong analytical mindset to design clear, impactful reports that answer the right questions and drive measurable results.
+I help businesses turn raw data into actionable insights using Excel and Power BI. I focus on data cleaning, analysis, and interactive dashboards that provide clarity, support decision-making, and drive measurable business results.
 
 
-🔹 Core Skills: Data Cleaning, KPI Tracking, Dashboard Design, Business Performance Analysis
+### Core Skills:
+- Data Cleaning & Transformation
+- KPI Tracking & Performance Analysis
+- Dashboard Design & Data Visualization
+- Business Problem-Solving
 
-
-🔹 Tools: Microsoft Suite | Power BI 
-
-
-🔹 Strengths: Analytical thinking, problem-solving, data storytelling
+### Tools: Microsoft Excel, Excel Power Query, Power BI, Microsoft Office Suite
+### Strengths: Analytical thinking | Data storytelling | Problem-solving
 
 ## Projects
 
 ### 1. Sales Dashboard
 - **Tools**: Microsoft Excel
-- **Description**: This project transforms raw sales data into clean, structured, and reliable information. It involves data cleaning to handle missing values, duplicates, and inconsistencies, followed by analysis to uncover key insights such as sales trends, top products, regional performance, and customer behavior.
+- **What I did:** Cleaned and structured raw sales data, handled missing values and duplicates, and built a dashboard to track sales trends, top products, and regional performance.
 
+  
+**Impact:** Enabled management to quickly identify declining product lines and optimize inventory, improving decision-making speed.
   
 🔗 [View Project](https://github.com/Nolainspire/Sales-Analysis)
 
 ### 2. Retail Superstore Sales Data Cleaning & Consolidation
-- **Tools**: Microsoft Excel and Excel Power Query for efficient data transformation and automation of cleaning steps.
-- **Description**: This project involves cleaning, standardizing, and combining two batches of superstore sales data into a single, analysis-ready dataset. Key tasks included splitting customer info, fixing dates, standardizing ship modes and categories, and cleaning sales and quantity values.
+- **Tools**: Microsoft Excel & Power Query
+- **What I did:** Standardized and combined two separate datasets into one clean, analysis-ready dataset. Tasks included splitting customer info, correcting dates, standardizing shipping modes and categories, and automating repetitive cleaning steps.
 
-The final dataset enables accurate analysis of total sales, customer behavior, and shipping preferences.
+
+**Impact:** Delivered a reliable dataset for analysis, reducing manual errors and enabling accurate reporting of sales, shipping preferences, and customer behavior.
   
 🔗 [View Project](https://github.com/Nolainspire/Retail-Superstore-Sales-Data-Cleaning)
 
