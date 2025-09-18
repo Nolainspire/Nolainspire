@@ -37,6 +37,18 @@ I help businesses turn raw data into actionable insights using Excel and Power B
 
 🔗 [View Project](https://github.com/Nolainspire/Retail-Superstore-Sales-Data-Cleaning)
 
+### 3. Luxury Car Dealership Sales Analysis
+- **Tools**: Power Query and Power BI
+- **What I did:** Analyzed a 10,000-row dataset for a luxury car dealership to uncover trends in brand demand, pricing, ownership, and customer preferences.
+- Using Power Query for cleaning, and DAX for advanced calculations (Date Table, YoY growth, seasonal trends).
+- I built an interactive Power BI dashboard answering key business questions.
+
+**Impact:** The analysis provided dealership with actionable insights to align inventory with demand, prioritize high-performing brands, and optimize trade-in strategies. By leveraging data-driven decisions, the dealership can reduce overstock risk, increase profitability from high-value resales, and boost customer satisfaction through targeted seasonal promotions.
+
+
+🔗 [View Project](https://github.com/Nolainspire/Luxury-Car-Dealership-Sales-Analysis)
+
+
 
 <h2>Connect with me</h2>
 
